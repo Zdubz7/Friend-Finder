@@ -1,0 +1,25 @@
+{
+  "name": "Friend-Finder",
+  "version": "1.0.0",
+  "description": "- npm install express - npm init -y - npm install - npm i nodemon ( Then Run ) - Run node server.js in the terminal to initialize the http://localhost:8889/ so that the server is listening. Once the server is running, use the url that the terminal provides to view the app. - The URL is http://localhost:8889/.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zdubz7/Friend-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zdubz7/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Zdubz7/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  }
+}
